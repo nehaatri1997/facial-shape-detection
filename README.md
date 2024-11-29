@@ -14,7 +14,7 @@ Displays the image with facial landmarks (if using Colab or similar environments
 
 # Installation
 1. Clone the Repository
-git clone https://github.com/your-repo-name/face-shape-detection.git
+git clone [https://github.com/your-repo-name/face-shape-detection.git](https://github.com/nehaatri1997/facial-shape-detection/blob/main/face_shape_detection.py)
 cd face-shape-detection
 2. Install Required Libraries
 Install the necessary dependencies:
